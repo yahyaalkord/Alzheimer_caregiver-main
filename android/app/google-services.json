@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "499711413768",
+    "project_id": "alzheimerproject-955a6",
+    "storage_bucket": "alzheimerproject-955a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499711413768:android:a9241f89096c62adf10bbd",
+        "android_client_info": {
+          "package_name": "com.example.caregiver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499711413768-a1c3e7drs77dotrl1ivlk017aa6uv5ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAotEkLKKALIU07OJ3LPQ9qwUZBkb7kRuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499711413768-a1c3e7drs77dotrl1ivlk017aa6uv5ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499711413768:android:8be6810d5bcf6a9cf10bbd",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499711413768-a1c3e7drs77dotrl1ivlk017aa6uv5ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAotEkLKKALIU07OJ3LPQ9qwUZBkb7kRuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499711413768-a1c3e7drs77dotrl1ivlk017aa6uv5ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
